@@ -69,7 +69,10 @@ Frequent Flyers inherit from the Traveller class and have some additional functi
 <h3><li>Getting Started</li></h3>
 
 1. Clone the repository-<br>
+```sh
 git clone https://github.com/maneektanda/Brisbane-Airport-Booking-System.git
-cd Brisbane-Airport-Booking-System
+```
 2. Run the project-<br>
+```sh
 dotnet run
+```
